@@ -25,7 +25,7 @@ end
 
 def read_from_hash(hash, key)
    
-   return key
+   return hash[key]
 
 end
 
