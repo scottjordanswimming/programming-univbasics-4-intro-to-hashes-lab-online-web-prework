@@ -25,7 +25,6 @@ end
 
 def read_from_hash(hash, key)
    hash = hash[:name]
-   key = 'Steve'
    return key
 
 end
